@@ -179,7 +179,7 @@ a:hover {
 	transform: scaleX(0);
 	-webkit-transform-origin: left;
 	transform-origin: left;
-	background: #000;
+	background: #00ff2f;
 }
 .container {
 	display: -webkit-box;
@@ -231,7 +231,7 @@ a:hover {
 	transform: scaleX(0);
 	-webkit-transform-origin: left;
 	transform-origin: left;
-	background: #000;
+	background: #00ff2f;
 }
 .checklist-item {
 	display: block;
@@ -250,7 +250,7 @@ a:hover {
 	border-radius: 3px;
 }
 .checkbox:hover {
-	background: rgba(33, 16, 118, .5);
+	background: rgb(255, 255, 255);
 }
 .checkbox:after {
 	position: absolute;
@@ -264,8 +264,8 @@ a:hover {
 	-webkit-transform: rotate(45deg) scale(0);
 	transform: rotate(45deg) scale(0);
 	opacity: 0;
-	border-right: 2px solid #000;
-	border-bottom: 2px solid #000;
+	border-right: 2px solid #ffffff;
+	border-bottom: 2px solid #ffffff;
 }
 .checklist-item__title {
 	font-size: 1.125em;
