@@ -59,10 +59,10 @@ body {
 		-apple-system,
 		BlinkMacSystemFont,
 		'Segoe UI',
-		Roboto,
-		Oxygen,
-		Ubuntu,
-		Cantarell,
+		'Roboto',
+		'Oxygen',
+		'Ubuntu',
+		'Cantarell',
 		'Fira Sans',
 		'Droid Sans',
 		'Helvetica Neue',
@@ -428,7 +428,7 @@ input[type=checkbox]:checked ~ .checklist-item__title {
 }
 .info-container ul {
 	padding-left: 26px;
-	list-style-type: disc;
+	list-style-type: none;
 }
 .info-container li {
 	margin-top: .25em;
