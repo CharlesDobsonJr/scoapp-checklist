@@ -508,7 +508,7 @@ footer span {
 .text-404 {
 	font-size: 2.5em;
 }
-@media print {
+@media screen () {
 	*, :after, :before, :first-letter, :first-line {
 		color: #000 !important;
 		background: 0 0 !important;
